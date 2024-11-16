@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color for the app's main theme -->
+    <color name="colorPrimary">#3F51B5</color>      <!-- Dark Blue -->
+    <color name="colorPrimaryDark">#303F9F</color>  <!-- Darker shade for status bar -->
+    <color name="colorAccent">#FF4081</color>       <!-- Accent color for buttons, etc. -->
+
+    <!-- Additional Colors -->
+    <color name="light_gray">#F5F5F5</color>        <!-- Background color for meal options -->
+    <color name="black">#000000</color>             <!-- Text color -->
+    <color name="white">#FFFFFF</color>
+    <color name="primaryColor">#6200EE</color>        <!-- Replace #6200EE with your desired color code -->
+    <color name="primaryColorDark">#3700B3</color>    <!-- Darker shade for status bar if needed -->
+    <color name="accentColor">#03DAC5</color>
+    <color name="buttonColor">#FFFFFF</color>
+
+
+    <!-- Card Background Color -->
+    <color name="cardBackground">#FFFFFF</color>      <!-- White color for card background, you can change it as needed -->
+
+    <!-- Dark Text Color -->
+    <color name="darkTextColor">#212121</color>      <!-- Rich dark grey, close to black but softer -->
+
+
+</resources>

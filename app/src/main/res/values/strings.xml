@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Mess Menu</string>
+
+    <!-- Category Names -->
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+
+    <!-- Breakfast Items -->
+    <string name="panta_bhat">Panta Bhat</string>
+    <string name="panta_bhat_desc">Fermented rice with mustard oil, onions, and green chilies</string>
+    <string name="paratha">Paratha</string>
+    <string name="paratha_desc">Flatbread, plain or stuffed with mutton or chicken</string>
+
+    <!-- Lunch Items -->
+    <string name="biriyani">Kacchi Biriyani</string>
+    <string name="biriyani_desc">Fragrant rice dish with marinated mutton</string>
+    <string name="shorshe_ilish">Shorshe Ilish</string>
+    <string name="shorshe_ilish_desc">Hilsa fish in mustard sauce with rice</string>
+
+    <!-- Dinner Items -->
+    <string name="mutton_rezala">Mutton Rezala</string>
+    <string name="mutton_rezala_desc">Creamy mutton curry with yogurt</string>
+    <string name="haleem">Haleem</string>
+    <string name="haleem_desc">Thick stew made from lentils and meat</string>
+</resources>
